@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MGC-Demo Pages
 
 You can use the [editor on GitHub](https://github.com/y10ab1/MGC-webDemo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
